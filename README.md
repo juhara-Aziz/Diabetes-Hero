@@ -11,9 +11,8 @@
 - python
 - streamlit
 
-## Installation
-git clone your-repo-link
-cd project-folder
+
+
 
 
 
